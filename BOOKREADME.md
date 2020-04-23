@@ -11,6 +11,7 @@ Welcome to the Retro Games camp!
 ## Resources
 - [Piskel](https://www.piskelapp.com/)
 - [MakeCode Arcade Tutorials](https://arcade.makecode.com/tutorials)
+- [MakeCode Arcade Platformer Video Walkthrough](https://www.youtube.com/watch?v=9bSX9Q5aP6E)
 
 ## MakeCode Arcade Platformers
 - [Simple Platformer](https://makecode.com/_b6V3sP1w5DgL)
