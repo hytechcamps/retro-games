@@ -203,19 +203,16 @@
 </ul>
 </li>
 <li>Click on the blank space to next to &quot;sprite&quot; in the <code>set sprite</code> block to open the Sprite Editor<br> <img src="https://i.imgur.com/kudM2w5.png" alt=""></li>
-<li>Draw a sprite image for the main character, and then click the green &quot;Done&quot; button in the bottom right<ul>
-<li>Do not spend too long creating this sprite image</li>
-</ul>
-</li>
+<li>Draw a sprite image for the main character, and then click the green &quot;Done&quot; button in the bottom right</li>
 <li>The game preview should automatically update, and the main character sprite should appear!</li>
 </ol>
-<h3 id="variables">Variables</h3>
-<p>In computer science, <strong>variables</strong> are containers for data. In MakeCode Arcade, variables can hold things like sprites, images, hit points, the player&apos;s score... almost anything.</p>
+<h3 id="side-note-variables"><em>Side-Note: Variables</em></h3>
+<p>In computer science, <strong>variables</strong> are containers for data. In MakeCode Arcade, variables can hold things like sprites, images, hit points, the player&apos;s score... almost anything!</p>
 <h2 id="moving-the-main-character">Moving the Main Character</h2>
 <p>The main character should be able to move left and right, as in any other platformer.</p>
 <ol>
-<li>From the &quot;Controller&quot; category, click and drag a red <code>move mySprite with buttons +</code> block under the <code>set sprite</code> block</li>
-<li>In the <code>move</code> block, click the drop-down arrow on <code>mySprite</code>, and select &quot;Main Character&quot;</li>
+<li>From the &quot;Controller&quot; category, click and drag a red <code>move mySprite with buttons +</code> block under the <code>set sprite</code> block<br> <img src="https://i.imgur.com/97MwAaU.png" alt=""></li>
+<li>In the <code>move</code> block, click the drop-down arrow on <code>mySprite</code>, and select <code>Main Character</code></li>
 <li>In the game preview, notice that it is possible to move left and right, but also up and down</li>
 <li>To prevent the main character from moving up and down, click the <code>+</code> in the <code>move</code> block, and set the <code>vy</code> to <code>0</code><ul>
 <li>This sets the <em>vertical speed</em> of the main character sprite to <code>0</code></li>
@@ -223,7 +220,7 @@
 </li>
 <li>Test out the game in the game preview again, and verify that the main character only moves left and right!</li>
 </ol>
-<h3 id="the-cartesian-plane---up-down-left-right">The Cartesian Plane - Up, Down, Left, Right</h3>
+<h3 id="side-note-the-cartesian-plane---up-down-left-right"><em>Side-Note: The Cartesian Plane - Up, Down, Left, Right</em></h3>
 <p>The MakeCode Arcade screen is a lot like a Cartesian plane. The <strong>x</strong> axis moves left and right (horizontally), and the <strong>y</strong> axis moves up and down.</p>
 <h2 id="creating-a-game-map">Creating a Game Map</h2>
 <p>Now the main character can move, but they won&apos;t have much to do without a map!</p>
@@ -241,10 +238,10 @@
 <li>In the <strong>Current Map</strong> section, draw ground covering the bottom part of the map<br> <img src="https://i.imgur.com/NLoxb1h.png" alt=""></li>
 <li>Select the <strong>Wall Editor</strong> tool<br> <img src="https://i.imgur.com/k761HmG.png" alt=""></li>
 <li>Draw over the ground with the wall editor - this will make the ground stop the main character from falling<br> <img src="https://i.imgur.com/0ON40yM.png" alt=""></li>
-<li>Click the &quot;Done&quot; button, and see the map appear in the game preview</li>
+<li>Click the &quot;Done&quot; button, and see the map appear in the game preview!</li>
 </ol>
 <h2 id="adding-gravity">Adding Gravity</h2>
-<p>Now that the main character has somewhere to land upon fall, add gravity to the game!</p>
+<p>Now that the main character has somewhere to land, add gravity to the game!</p>
 <ol>
 <li>In the &quot;Sprites&quot; category, click and drag a <code>set mySprite x to 0</code> block under the existing blocks in <code>on start</code><br><img src="https://i.imgur.com/fo4305C.png" alt=""></li>
 <li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
@@ -282,7 +279,8 @@
 <li>Click and drag the <code>set Main Character vy to -200</code> block into the <code>if</code> block</li>
 <li>Play the game preview and verify that the main character can only jump when they are on the ground!</li>
 </ol>
-<h3 id="conditionals">Conditionals</h3>
+<p><img src="https://i.imgur.com/gfnc4yS.png" alt=""></p>
+<h3 id="side-note-conditionals"><em>Side-Note: Conditionals</em></h3>
 <p>In computer science, <strong>conditionals</strong> let the program do different things depending on the current situation. In this example, the main character can only jump <em>if</em> they are on the ground. Conditionals are incredibly useful for creating dynamic programs!</p>
 <h2 id="winning-the-game">Winning the Game</h2>
 <p>For this to be an actual game, there should be a way to win!</p>
@@ -319,6 +317,7 @@
 <li>Click the dorp-down arrow next to <code>confetti</code> and select a new game-ending animation (like <code>melt</code>)</li>
 <li>Play the game in the game preview to verify that touching an obstacle will lose the game!</li>
 </ol>
+<p><img src="https://i.imgur.com/AN7mNnx.png" alt=""></p>
 <h2 id="code">Code</h2>
 <p>At this point, the project should look something like this: <a href="https://makecode.com/_b6V3sP1w5DgL" target="_blank">https://makecode.com/_b6V3sP1w5DgL</a></p>
 <h2 id="optional-challenge-adding-an-animation">OPTIONAL CHALLENGE: Adding an Animation</h2>
@@ -327,7 +326,7 @@
 <p>The first step to animate a sprite is creating the actual frames for the animation.</p>
 <ol>
 <li>In the <strong>Block Selection</strong> section, click &quot;Advanced&quot; and then click &quot;+ Extensions&quot; at the bottom</li>
-<li>Click the <code>animation</code> extension to load it into the project</li>
+<li>Click the <code>animation</code> extension to load it into the project<br> <img src="https://i.imgur.com/qpQap5M.png" alt=""></li>
 <li>In the new &quot;Animation&quot; category, click and drag a red <code>set anim to</code> block into the <code>on start</code> block</li>
 <li>Change the <code>1000</code> in the <code>set anim to</code> block to <code>200</code></li>
 <li>In the &quot;Animation&quot; category, click and drag a green <code>add frame to anim</code> block into the <code>on start</code> block at the bottom</li>
@@ -407,7 +406,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Code-Along","level":"1.2","depth":1,"next":{"title":"Challenges","level":"1.3","depth":1,"path":"Challenges.md","ref":"Challenges.md","articles":[]},"previous":{"title":"Introduction","level":"1.1","depth":1,"path":"BOOKREADME.md","ref":"BOOKREADME.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"CodeAlong.md","mtime":"2020-04-23T14:40:49.308Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-04-23T14:41:23.686Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Code-Along","level":"1.2","depth":1,"next":{"title":"Challenges","level":"1.3","depth":1,"path":"Challenges.md","ref":"Challenges.md","articles":[]},"previous":{"title":"Introduction","level":"1.1","depth":1,"path":"BOOKREADME.md","ref":"BOOKREADME.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"CodeAlong.md","mtime":"2020-04-23T15:14:23.796Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-04-23T15:14:59.476Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
