@@ -1,7 +1,7 @@
 # Retro Games: Challenges
 Complete any of the following challenges that seem interesting. There are two options:
 
-- Use the code from the code-along activity
+- Use the code from the [code-along activity](CodeAlong.md)
 - Start from a new template with more involved animations: https://makecode.com/_3wXbAr715Myi
     - Click the "Edit Code" button at the top to open the editor
 
@@ -17,7 +17,7 @@ In the "Scene" category, there is a `set background image` block. Drag it into t
 Edit the tilemap to make a new challenge for the player! To make a longer level, update the horizontal size of the tilemap.
 
 ### Basic 3: Change the Jump Height
-Find the code that makes the main character jump, and figure out how to jump faster!
+Find the code that makes the main character jump, and figure out how to jump higher!
 
 ### Basic 4: Add a Countdown
 In the "Info" category, there is a `start countdown` block. Drag it into the `on start` block to add a countdown to the game. When the countdown reaches zero, the player will lose! Update the length of the countdown so the game is still winnable.
@@ -55,7 +55,7 @@ This will make the melody repeat forever!
 ![](https://i.imgur.com/UgkN28V.png)
 
 ### Advanced 4: Add an Infinite Jump Power-up
-A lot of this is very similar to the points system - adding a new tile to the tilemap, and making something happen when the main character overlaps it. The new part is the `Infinite Jump` variable - this will be either `true` or `false`.
+A lot of this is very similar to the points system - adding a new tile to the tilemap, and making something happen when the main character overlaps it. The new part is the `Infinite Jump` variable. The `Infinite Jump` variable will be either `true` or `false` - it will change based on the gameplay.
 
 1. In the "Variables" category, click the "Make a variable..." button to make a new variable named `Infinite Jump`
 1. Drag a `set mySprite to 0` block into the `on start` block

@@ -36,23 +36,23 @@ The first thing the game needs is a main character for the player to control!
 1. Click on the blank space to next to "sprite" in the `set sprite` block to open the Sprite Editor  
     ![](https://i.imgur.com/kudM2w5.png)
 1. Draw a sprite image for the main character, and then click the green "Done" button in the bottom right
-    - Do not spend too long creating this sprite image
 1. The game preview should automatically update, and the main character sprite should appear!
 
-### Variables
-In computer science, **variables** are containers for data. In MakeCode Arcade, variables can hold things like sprites, images, hit points, the player's score... almost anything.
+### _Side-Note: Variables_
+In computer science, **variables** are containers for data. In MakeCode Arcade, variables can hold things like sprites, images, hit points, the player's score... almost anything!
 
 ## Moving the Main Character
 The main character should be able to move left and right, as in any other platformer.
 
-1. From the "Controller" category, click and drag a red `move mySprite with buttons +` block under the `set sprite` block
-1. In the `move` block, click the drop-down arrow on `mySprite`, and select "Main Character"
+1. From the "Controller" category, click and drag a red `move mySprite with buttons +` block under the `set sprite` block  
+    ![](https://i.imgur.com/97MwAaU.png)
+1. In the `move` block, click the drop-down arrow on `mySprite`, and select `Main Character`
 1. In the game preview, notice that it is possible to move left and right, but also up and down
 1. To prevent the main character from moving up and down, click the `+` in the `move` block, and set the `vy` to `0`
     - This sets the _vertical speed_ of the main character sprite to `0`
 1. Test out the game in the game preview again, and verify that the main character only moves left and right!
 
-### The Cartesian Plane - Up, Down, Left, Right
+### _Side-Note: The Cartesian Plane - Up, Down, Left, Right_
 The MakeCode Arcade screen is a lot like a Cartesian plane. The **x** axis moves left and right (horizontally), and the **y** axis moves up and down.
 
 ## Creating a Game Map
@@ -73,10 +73,10 @@ Now the main character can move, but they won't have much to do without a map!
     ![](https://i.imgur.com/k761HmG.png)
 1. Draw over the ground with the wall editor - this will make the ground stop the main character from falling  
     ![](https://i.imgur.com/0ON40yM.png)
-1. Click the "Done" button, and see the map appear in the game preview
+1. Click the "Done" button, and see the map appear in the game preview!
 
 ## Adding Gravity
-Now that the main character has somewhere to land upon fall, add gravity to the game!
+Now that the main character has somewhere to land, add gravity to the game!
 
 1. In the "Sprites" category, click and drag a `set mySprite x to 0` block under the existing blocks in `on start`  
   ![](https://i.imgur.com/fo4305C.png)
@@ -112,7 +112,9 @@ The main character should only be able to jump when they are on the ground.
 1. Click and drag the `set Main Character vy to -200` block into the `if` block
 1. Play the game preview and verify that the main character can only jump when they are on the ground!
 
-### Conditionals
+![](https://i.imgur.com/gfnc4yS.png)
+
+### _Side-Note: Conditionals_
 In computer science, **conditionals** let the program do different things depending on the current situation. In this example, the main character can only jump _if_ they are on the ground. Conditionals are incredibly useful for creating dynamic programs!
 
 ## Winning the Game
@@ -153,6 +155,8 @@ The game will not be very interesting if there is no way to lose. Add an obstacl
 1. Click the dorp-down arrow next to `confetti` and select a new game-ending animation (like `melt`)
 1. Play the game in the game preview to verify that touching an obstacle will lose the game!
 
+![](https://i.imgur.com/AN7mNnx.png)
+
 ## Code
 At this point, the project should look something like this: https://makecode.com/_b6V3sP1w5DgL
 
@@ -163,7 +167,8 @@ In most platformers, the main character will animate whenever they move. Add a b
 The first step to animate a sprite is creating the actual frames for the animation.
 
 1. In the **Block Selection** section, click "Advanced" and then click "+ Extensions" at the bottom
-1. Click the `animation` extension to load it into the project
+1. Click the `animation` extension to load it into the project  
+    ![](https://i.imgur.com/qpQap5M.png)
 1. In the new "Animation" category, click and drag a red `set anim to` block into the `on start` block
 1. Change the `1000` in the `set anim to` block to `200`
 1. In the "Animation" category, click and drag a green `add frame to anim` block into the `on start` block at the bottom
