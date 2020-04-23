@@ -9,6 +9,9 @@ Start things off with a quick icebreaker activity so the students can get to kno
 ## Lecture
 The lecture uses a [PowerPoint Presentation](RetroGames.pptx) to introduce students to retro games.
 
+## Kahoot
+The [Kahoot quiz](https://create.kahoot.it/share/d71c1d5e-a563-4e00-a61a-fa498c71942b) covers the content from the lecture.
+
 ## Code-Along
 Walk through the [Code-Along](CodeAlong.md) with the students. Start building a simple platformer using MakeCode Arcade.
 
