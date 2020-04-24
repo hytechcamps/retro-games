@@ -9,6 +9,7 @@ Welcome to the Retro Games camp!
 - [Challenges](Challenges.md)
 
 ## Resources
+- [Nintendo Before Mario](http://blog.beforemario.com/p/nintendo-before-mario.html)
 - [Piskel](https://www.piskelapp.com/)
 - [MakeCode Arcade Tutorials](https://arcade.makecode.com/tutorials)
 - [MakeCode Arcade Platformer Video Walkthrough](https://www.youtube.com/watch?v=9bSX9Q5aP6E)
