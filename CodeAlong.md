@@ -33,7 +33,7 @@ The first thing the game needs is a main character for the player to control!
     ![](https://i.imgur.com/DvJnknn.png)
 1. Set the variable name to "Main Character"
     - _Note: If the main character has a name, this could be their name instead! Just make sure to use the name when referencing the `Main Character` sprite_
-1. Click on the blank space to next to "sprite" in the `set sprite` block to open the Sprite Editor  
+1. Click on the blank space next to "sprite" in the `set sprite` block to open the Sprite Editor  
     ![](https://i.imgur.com/kudM2w5.png)
 1. Draw a sprite image for the main character, and then click the green "Done" button in the bottom right
 1. The game preview should automatically update, and the main character sprite should appear!
@@ -98,7 +98,7 @@ In almost every platformer, the main character has the ability to jump.
 1. In the "Sprites" category, click and drag a `set mySprite x to 0` block into the `on up button pressed` block
 1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Click the drop-down arrow next to `x` and select `vy (velocity y)`
-1. Change the `0` to `-100`
+1. Change the `0` to `-200`
     - This will make the main character star moving upward (jump)
 1. In the game preview, notice that the main character can jump multiple times, which should not be possible
 
@@ -146,13 +146,13 @@ The game will not be very interesting if there is no way to lose. Add an obstacl
 1. Click the "+" to create a new tile for an obstacle  
     ![](https://i.imgur.com/9I6lDav.png)
 1. In the Tile Editor, draw an obstacle that will end the game (e.g. spikes, fire, an enemy)
-1. Place obstacle tile in several places on the tilemap
+1. Place the obstacle tile in several places on the tilemap
 1. Click the green "Done" button in the lower right to exit the Tilemap Editor
 1. Back in the code, in the "Scene" category, click and drag another `overlaps` block into the **Code** section
 1. Click the drop-down arrow next to `overlaps` and select the obstacle tile
 1. In the "Game" category, click and drag a `game over` block into the new `overlaps` block
 1. Click the `+` on the `game over` block to reveal additional options
-1. Click the dorp-down arrow next to `confetti` and select a new game-ending animation (like `melt`)
+1. Click the drop-down arrow next to `confetti` and select a new game-ending animation (like `melt`)
 1. Play the game in the game preview to verify that touching an obstacle will lose the game!
 
 ![](https://i.imgur.com/AN7mNnx.png)
