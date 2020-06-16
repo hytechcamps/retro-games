@@ -1,6 +1,27 @@
 # Retro Games with MakeCode Arcade
 A workshop introducing [MakeCode Arcade](https://arcade.makecode.com/) in ~2hrs. Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for dedicated hardware.
 
+## Suggested Schedule (Virtual)
+
+| Activity | Time |
+|-|-|
+| Icebreaker | 15m |
+| Virtual Lecture | 10m |
+| Virtual Kahoot | 5m |
+| Code-Along | 45m |
+| Individual | 15m |
+
+## Suggested Schedule
+
+| Activity | Time |
+|-|-|
+| Icebreaker | 15m |
+| Lecture | 20m |
+| Kahoot | 10m |
+| Break | 10m |
+| Code-Along | 45m |
+| Individual | 50m |
+
 ## Icebreaker
 Start things off with an icebreaker activity so the students can get to know each other.
 
@@ -35,24 +56,3 @@ Other than those things, they should follow the instructor's code.
 
 ## Challenges
 The goal of the [challenges](Challenges.md) is to inspire the students to continue playing with MakeCode Arcade. They provide some direction for the students to add features to their game. It is not necessary for the students to follow the challenge guidelines directly, as long as they continue to work on game development.
-
-## Suggested Schedule (Virtual)
-
-| Activity | Time |
-|-|-|
-| Icebreaker | 15m |
-| Virtual Lecture | 10m |
-| Virtual Kahoot | 5m |
-| Code-Along | 45m |
-| Individual | 15m |
-
-## Suggested Schedule
-
-| Activity | Time |
-|-|-|
-| Icebreaker | 15m |
-| Lecture | 20m |
-| Kahoot | 10m |
-| Break | 10m |
-| Code-Along | 45m |
-| Individual | 50m |
