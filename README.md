@@ -29,10 +29,10 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 | Code-Along | 45m |
 | Individual | 50m |
 
-## Icebreaker
+## Collaborative Drawing Icebreaker
 Start things off with an icebreaker activity so the students can get to know each other.
 
-- Collaborative Drawing: Start up a painting on [aggie.io](https://aggie.io/) and give the students the link. Task them with collaboratively drawing something like a city, e.g. [this](https://i.imgur.com/s0gjcMq.jpg). It should be something where every student has an opportunity to participate. It may be beneficial to start with a template/background layer and have the students build on top of it. Make sure to sign-in and become an admin of the drawing, that way it will be possible to kick students if necessary.
+Start up a painting on [aggie.io](https://aggie.io/). Ahead of time, import a template image with several squares. Become an admin, and configure the drawing so that only "Approved" users can own layers. Give the students the link, and ask them to draw their favorite video game characters in one square each. Show the students how to change their name, and once they do, add them to the "Approved" users list. After about five minutes, go around the Zoom room and ask each student to briefly introduce themselves (name, school, drawing).
 
 ## Lecture
 The lecture uses a [PowerPoint Presentation](RetroGames.pptx) to introduce students to retro games.
