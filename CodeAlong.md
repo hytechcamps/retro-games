@@ -160,6 +160,22 @@ The game will not be very interesting if there is no way to lose. Add an obstacl
 ## Code
 At this point, the project should look something like this: https://makecode.com/_b6V3sP1w5DgL
 
+## Saving and Sharing
+
+Click on the "Share" button in the upper left:
+
+![](https://i.imgur.com/uAQ7A87.png)
+
+Enter a name for the project (change it from "Untitled" to something else), and click the "Publish project" button:
+
+![](https://i.imgur.com/jdeLTRt.png)
+
+Click the "Copy" button to copy the link:
+
+![](https://i.imgur.com/KpPiDRQ.png)
+
+Paste the link somewhere to share it!
+
 ## OPTIONAL CHALLENGE: Adding an Animation
 In most platformers, the main character will animate whenever they move. Add a basic two-frame animation to the main character sprite!
 
