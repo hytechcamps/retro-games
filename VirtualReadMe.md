@@ -32,6 +32,8 @@ The [virtual Kahoot](https://create.kahoot.it/share/duplicate-of-retro-games/126
 ## Code-Along
 Walk through the [Code-Along](CodeAlong.md) with the students. Start building a simple platformer using MakeCode Arcade. For the virtual camp, _skip the optional animation section_.
 
+Make sure to keep the "jumpy platformer" introduction time-bound. After a certain amount of time (2-3 minutes), tell the students it is time to stop. After that, share the code-along instructions in the Zoom chat and begin walking through it.
+
 ### Deviations
 The students should be able to:
 
