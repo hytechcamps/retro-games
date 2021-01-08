@@ -176,6 +176,9 @@ Click the "Copy" button to copy the link:
 
 Paste the link somewhere to share it!
 
+## Challenges
+Once the main activity is complete, feel free to work on some [challenges](Challenges.md). There are also instructions for adding an animation to the game below.
+
 ## OPTIONAL CHALLENGE: Adding an Animation
 In most platformers, the main character will animate whenever they move. Add a basic two-frame animation to the main character sprite!
 
