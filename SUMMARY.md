@@ -1,2 +1,3 @@
+- [Icebreaker](Icebreaker.md)
 - [Code-Along](CodeAlong.md)
 - [Challenges](Challenges.md)
