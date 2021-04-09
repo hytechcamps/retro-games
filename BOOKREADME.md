@@ -10,12 +10,16 @@ Follow the instructions on [this page](Icebreaker.md) to complete the activity!
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/Z9FmkPrxtHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Code-Along Activity
+Follow [these instructions](CodeAlong.md) to build a basic platformer game using MakeCode Arcade.
+
+### Code-Along Video
 <iframe width="100%" height="450px" src="https://www.youtube.com/embed/bzpnbTn7lOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Instructions](CodeAlong.md)
+## Sharing Games
+Follow [these steps](SharingGames.md) to save and share your game!
 
 ## Self-Paced Work
-- [Challenges](Challenges.md)
+After the code-along, feel free to work on the [challenges](Challenges.md).
 
 ## Resources
 - [Nintendo Before Mario](http://blog.beforemario.com/p/nintendo-before-mario.html)

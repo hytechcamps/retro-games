@@ -4,7 +4,7 @@ Go to https://sketch.io/sketchpad/ to get started! Once there, use the tools ava
 After about **five minutes** of draw time, each student will have a chance to share their drawing.
 
 ## Sharing Sketches
-If possible, use Zoom's Screen Share tool to share the drawing with the rest of the group. If not, it will be necessary to share a link to the drawing instead.
+After drawing, follow these steps to share!
 
 1. In the bottom left, click the "Export" button  
     ![](https://i.imgur.com/haMA7xC.png)

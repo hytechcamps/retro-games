@@ -1,14 +1,10 @@
 # Retro Games: Challenges
-Complete any of the following challenges that seem interesting. There are two options:
+Complete any of the following challenges that seem interesting. Start with the code from the [code-along activity](CodeAlong.md), and then take a look at the ideas below.
 
-- Use the code from the [code-along activity](CodeAlong.md)
-- Start from a new template with more involved animations: https://makecode.com/_3wXbAr715Myi
-    - Click the "Edit Code" button at the top to open the editor
-
-Using the new template will make it easier to update animations for the game.
+Feel free to get creative and create something else too! It is recommended to start with the Basic Challenges, and then decide whether to move on to the Other Challenges or the Advanced Challenges.
 
 ## Basic Challenges
-These challenges are fairly basic, so they are a good starting point!
+These challenges are fairly basic, so they are a good starting point.
 
 ### Basic 1: Add a New Background Image
 In the "Scene" category, there is a `set background image` block. Drag it into the `on start` block, and click the blank spot to open the Background Image Editor!
@@ -25,11 +21,29 @@ In the "Info" category, there is a `start countdown` block. Drag it into the `on
 ### Basic 5: Add a Startup Melody
 In the "Music" category, there is a `play melody` block. Drag it into the `on start` block to add a melody that plays before the game begins! Click the blank music section to create the melody, or choose from the gallery of existing melodies. Set the tempo too!
 
+## Other Challenges
+These challenges are separate from the platformer game, but they are related to retro game development.
+
+### Other 1: Piskel
+[Piskel](https://www.piskelapp.com/) is a website that lets artists create pixel art! It is free to use, and it can be a lot of fun to design sprites and animations.
+
+Visit the website and look at some of the examples, or click "Create Sprite" to start creating a sprite.
+
+[This video](https://www.youtube.com/watch?v=VMkvVmAQBd0) and the other videos in the series can be helpful to get started making pixel art with Piskel.
+
+### Other 2: More MakeCode Arcade Tutorials
+MakeCode Arcade has a bunch of great [tutorials](https://arcade.makecode.com/tutorials) for all types of retro games!
+
+Visit the website to explore some of the possibilities.
+
+### Other 3: Whatever!
+Add some completely different stuff to the platformer game, or create an entirely new game! Almost anything is possible; it's all about learning how to do it.
+
 ## Advanced Challenges
 These challenges are a little more advanced, so they can be fairly difficult!
 
 ### Advanced 1: Update the Main Character Sprite Animation
-Update the frames of the main character sprite animation!
+Update the frames of the main character sprite animation! Start by opening the [Animated Game](https://makecode.com/_3wXbAr715Myi), and click the "Edit Code" button at the top.
 
 For the new template, find the `Main Character Image` variables and update each of them:
 
@@ -73,21 +87,3 @@ A lot of this is very similar to the points system - adding a new tile to the ti
 1. For the other side, drag in the `Infinite Jump` block from the "Variables" category
 
 Now, the main character can jump if they are on the ground _or_ `Infinite Jump` has been enabled by the power-up!
-
-## Other Challenges
-These challenges are separate from the platformer game, but they are related to retro game development!
-
-### Other 1: Piskel
-[Piskel](https://www.piskelapp.com/) is a website that lets artists create pixel art! It is free to use, and it can be a lot of fun to design sprites and animations.
-
-Visit the website and look at some of the examples, or click "Create Sprite" to start creating a sprite.
-
-[This video](https://www.youtube.com/watch?v=VMkvVmAQBd0) and the other videos in the series can be helpful to get started making pixel art with Piskel.
-
-### Other 2: More MakeCode Arcade Tutorials
-MakeCode Arcade has a bunch of great [tutorials](https://arcade.makecode.com/tutorials) for all types of retro games!
-
-Visit the website to explore some of the possibilities.
-
-### Other 3: Whatever!
-Add some completely different stuff to the platformer game, or create an entirely new game! Almost anything is possible; it's all about learning how to do it.
