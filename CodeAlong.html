@@ -57,7 +57,7 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="Challenges.html" />
+    <link rel="next" href="SharingGames.html" />
     
     
     <link rel="prev" href="Icebreaker.html" />
@@ -128,7 +128,20 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" data-path="Challenges.html">
+        <li class="chapter " data-level="1.4" data-path="SharingGames.html">
+            
+                <a href="SharingGames.html">
+            
+                    
+                    Sharing Games
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="Challenges.html">
             
                 <a href="Challenges.html">
             
@@ -333,59 +346,12 @@
 <p><img src="https://i.imgur.com/AN7mNnx.png" alt=""></p>
 <h2 id="code">Code</h2>
 <p>At this point, the project should look something like this: <a href="https://makecode.com/_b6V3sP1w5DgL" target="_blank">https://makecode.com/_b6V3sP1w5DgL</a></p>
+<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/#pub:_aLv4XqPHXPT5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
 <h2 id="saving-and-sharing">Saving and Sharing</h2>
-<p>Click on the &quot;Share&quot; button in the upper left:</p>
-<p><img src="https://i.imgur.com/uAQ7A87.png" alt=""></p>
-<p>Enter a name for the project (change it from &quot;Untitled&quot; to something else), and click the &quot;Publish project&quot; button:</p>
-<p><img src="https://i.imgur.com/jdeLTRt.png" alt=""></p>
-<p>Click the &quot;Copy&quot; button to copy the link:</p>
-<p><img src="https://i.imgur.com/KpPiDRQ.png" alt=""></p>
-<p>Paste the link somewhere to share it!</p>
+<p>Follow <a href="SharingGames.html">these instructions</a> to save and share your game!</p>
 <h2 id="challenges">Challenges</h2>
 <p>Once the main activity is complete, feel free to work on some <a href="Challenges.html">challenges</a>. There are also instructions for adding an animation to the game below.</p>
-<h2 id="optional-challenge-adding-an-animation">OPTIONAL CHALLENGE: Adding an Animation</h2>
-<p>In most platformers, the main character will animate whenever they move. Add a basic two-frame animation to the main character sprite!</p>
-<h3 id="creating-the-animation">Creating the Animation</h3>
-<p>The first step to animate a sprite is creating the actual frames for the animation.</p>
-<ol>
-<li>In the <strong>Block Selection</strong> section, click &quot;Advanced&quot; and then click &quot;+ Extensions&quot; at the bottom</li>
-<li>Click the <code>animation</code> extension to load it into the project<br> <img src="https://i.imgur.com/qpQap5M.png" alt=""></li>
-<li>In the new &quot;Animation&quot; category, click and drag a red <code>set anim to</code> block into the <code>on start</code> block</li>
-<li>Change the <code>1000</code> in the <code>set anim to</code> block to <code>200</code></li>
-<li>In the &quot;Animation&quot; category, click and drag a green <code>add frame to anim</code> block into the <code>on start</code> block at the bottom</li>
-<li>From the <code>set Main Character to sprite</code> block, click and drag the sprite image into the blank spot after <code>add frame</code><br> <img src="https://i.imgur.com/DzodVFj.png" alt=""></li>
-<li>In the &quot;Animation&quot; category, click and drag another <code>add frame to anim</code> block into the <code>on start</code> block at the bottom</li>
-<li>From the <code>set Main Character to sprite</code> block, click and drag the sprite image into the next blank spot after <code>add frame</code></li>
-<li>Click the image in second <code>add frame</code> block to open the Image Editor</li>
-<li>Edit the image so it will become the second frame of the Main Character walking animation</li>
-<li>From the &quot;Animation&quot; category, click and drag an <code>attach animation anim</code> block into the <code>on start</code> block at the bottom</li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
-</ol>
-<p><img src="https://i.imgur.com/OFjGAzS.png" alt=""></p>
-<blockquote>
-<p>Note: Nothing will change after creating the animation. It needs to be activated first!</p>
-</blockquote>
-<h3 id="activating-the-animation">Activating the Animation</h3>
-<p>The main character should only animate while walking. Add code to activate the animation whenever the player moves the main character.</p>
-<ol>
-<li>In the &quot;Game&quot; category, click and drag a purple <code>on game start</code> block into the <strong>Code</strong> section</li>
-<li>In the &quot;Logic&quot; category, click and drag an <code>if</code> block into the <code>on game start</code> block</li>
-<li>In the &quot;Logic&quot; category, click and drag a <code>0 = 0</code> block into where the <code>true</code> is in the <code>if</code> block</li>
-<li>In the &quot;Sprites&quot; category, click and drag a <code>mySprite x</code> block into the first <code>0</code> in the <code>0 = 0</code> block</li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
-<li>Click the drop-down arrow next to <code>x</code> and select <code>vx (velocity x)</code><ul>
-<li>This <code>if</code> block will be <strong>true</strong> if the main character has no horizontal speed (i.e. they are standing still)</li>
-</ul>
-</li>
-<li>In the &quot;Sprites&quot; category, scroll down and click and drag the <code>set mySprite image to</code> block into the <code>if</code> block</li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
-<li>From the original <code>set Main Character to sprite</code> block, click and drag the sprite image into the next blank spot after <code>set Main Character image to</code></li>
-<li>Click the <code>+</code> at the bottom of the <code>if</code> block to add an <code>else</code> section</li>
-<li>From the &quot;Animation&quot; category, click and drag an <code>activate animation</code> block into the <code>else</code></li>
-<li>Click the drop-down arrow next to <code>mySprite</code> and select <code>Main Character</code></li>
-<li>In the game preview, move the main character and verify that the animation activates only when the character is moving!</li>
-</ol>
-<p><img src="https://i.imgur.com/yGf644g.png" alt=""></p>
 
                                 
                                 </section>
@@ -418,7 +384,7 @@
                 </a>
                 
                 
-                <a href="Challenges.html" class="navigation navigation-next " aria-label="Next page: Challenges">
+                <a href="SharingGames.html" class="navigation navigation-next " aria-label="Next page: Sharing Games">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -429,7 +395,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Code-Along","level":"1.3","depth":1,"next":{"title":"Challenges","level":"1.4","depth":1,"path":"Challenges.md","ref":"Challenges.md","articles":[]},"previous":{"title":"Icebreaker","level":"1.2","depth":1,"path":"Icebreaker.md","ref":"Icebreaker.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"CodeAlong.md","mtime":"2021-01-29T15:27:18.949Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-01-29T15:27:54.928Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Code-Along","level":"1.3","depth":1,"next":{"title":"Sharing Games","level":"1.4","depth":1,"path":"SharingGames.md","ref":"SharingGames.md","articles":[]},"previous":{"title":"Icebreaker","level":"1.2","depth":1,"path":"Icebreaker.md","ref":"Icebreaker.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"CodeAlong.md","mtime":"2021-04-09T11:39:18.289Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-04-09T11:39:53.032Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

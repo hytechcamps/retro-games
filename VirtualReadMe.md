@@ -8,7 +8,7 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 - [Retro Games Lecture](https://www.youtube.com/watch?v=Z9FmkPrxtHY&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
 - [Retro Games Code-Along](https://www.youtube.com/watch?v=bzpnbTn7lOc&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
 
-## Suggested Schedule (Virtual)
+## Suggested Schedule (Virtual 1.5hr)
 
 | Activity | Time |
 |-|-|
@@ -17,6 +17,17 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 | Virtual Kahoot | 5m |
 | Code-Along | 45m |
 | Individual | 15m |
+
+## Suggested Schedule (Virtual 2hr)
+
+| Activity | Time |
+|-|-|
+| Intros + Icebreaker | 15m |
+| Virtual Lecture | 10m |
+| Virtual Kahoot | 5m |
+| Code-Along | 70m |
+| Individual | 10m |
+| Sharing Games | 10m |
 
 ## Individual Drawing Icebreaker
 Start things off with an icebreaker activity so the students can get to know each other. Students can follow the instructions on [this page](Icebreaker.md) if desired.
@@ -47,5 +58,10 @@ The students should be able to:
 
 Other than those things, they should follow the instructor's code.
 
+## Sharing Games
+Toward the end of the lesson, students should share their games by following [these instructions](SharingGames.md). This can also be a good way for instructors to help debug the students' games during the session.
+
 ## Challenges
-The goal of the [challenges](Challenges.md) is to inspire the students to continue playing with MakeCode Arcade. They provide some direction for the students to add features to their game. It is not necessary for the students to follow the challenge guidelines directly, as long as they continue to work on game development. Students can access the challenges via the [external GitBook site](https://hytechcamps.github.io/retro-games/Challenges.html).
+The goal of the [challenges](Challenges.md) is to inspire the students to continue playing with MakeCode Arcade. They provide some direction for the students to add features to their game. It is not necessary for the students to follow the challenge guidelines directly, as long as they continue to work on game development.
+
+Students are generally interested in learning about [Piskel](https://piskelapp.com), so that can be a fun thing to show if there is time at the end.
