@@ -1,5 +1,5 @@
 # VIRTUAL: Retro Games with MakeCode Arcade
-A workshop introducing [MakeCode Arcade](https://arcade.makecode.com/) in ~1.5hrs. Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for dedicated hardware.
+A workshop introducing [MakeCode Arcade](https://arcade.makecode.com/) in ~2hrs. Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for dedicated hardware.
 
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/retro-games).
@@ -7,16 +7,6 @@ Student-facing content is available at [hytechcamps.github.io](https://hytechcam
 ## Videos
 - [Retro Games Lecture](https://www.youtube.com/watch?v=Z9FmkPrxtHY&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
 - [Retro Games Code-Along](https://www.youtube.com/watch?v=bzpnbTn7lOc&list=PL1P_sExxi-9NeogaTKc9lSzoUkqPuqHOT)
-
-## Suggested Schedule (Virtual 1.5hr)
-
-| Activity | Time |
-|-|-|
-| Icebreaker | 15m |
-| Virtual Lecture | 10m |
-| Virtual Kahoot | 5m |
-| Code-Along | 45m |
-| Individual | 15m |
 
 ## Suggested Schedule (Virtual 2hr)
 
