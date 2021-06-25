@@ -2,7 +2,7 @@
 Welcome to the Creating Video Games camp!
 
 ## Icebreaker Activity - Sketching
-Follow the instructions on [this page](Icebreaker.md) to complete the activity!
+Follow the instructions on [this page](Icebreaker.md) to complete the icebreaker activity!
 
 ## Retro Games PowerPoint Presentation
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/retro-games/RetroGamesVirtual.pptx' width='100%' height='450px' frameborder='0'></iframe>
