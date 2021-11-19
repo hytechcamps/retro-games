@@ -99,7 +99,7 @@ In almost every platformer, the main character has the ability to jump.
 1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Click the drop-down arrow next to `x` and select `vy (velocity y)`
 1. Change the `0` to `-200`
-    - This will make the main character star moving upward (jump)
+    - This will make the main character start moving upward (jump)
 1. In the game preview, notice that the main character can jump multiple times, which should not be possible
 
 ### Single Jump
@@ -166,4 +166,4 @@ At this point, the project should look something like this: https://makecode.com
 Follow [these instructions](SharingGames.md) to save and share your game!
 
 ## Challenges
-Once the main activity is complete, feel free to work on some [challenges](Challenges.md). There are also instructions for adding an animation to the game below.
+Once the main activity is complete, feel free to work on some [challenges](Challenges.md).
