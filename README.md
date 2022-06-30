@@ -1,6 +1,12 @@
 # Retro Games with MakeCode Arcade
 A workshop introducing [MakeCode Arcade](https://arcade.makecode.com/) in ~2hrs. Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for dedicated hardware.
 
+### Videos
+There are videos for the camp here:
+
+- [Virtual Lecture](https://www.youtube.com/watch?v=Z9FmkPrxtHY)
+- [Code-Along](https://www.youtube.com/watch?v=bzpnbTn7lOc)
+
 ## Virtual README
 [An outline of the virtual version of the camp](VirtualReadMe.md).
 
