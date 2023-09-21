@@ -10,6 +10,9 @@ There are videos for the camp here:
 ## Virtual README
 [An outline of the virtual version of the camp](VirtualReadMe.md).
 
+## Ohio Tech Day Lesson Plan
+[Find the lesson for Ohio Tech Day 2023 here.](OhioTechDayLessonPlan.md)
+
 ## Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/retro-games).
 

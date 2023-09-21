@@ -1,13 +1,8 @@
-# Creating Video Games with MakeCode Arcade
-Welcome to the Creating Video Games camp!
-
-## Icebreaker Activity - Sketching
-Follow the instructions on [this page](Icebreaker.md) to complete the icebreaker activity!
+# Ohio Tech Day: Retro Games
+In this lesson, learn how to use [Microsoft MakeCode Arcade](https://arcade.makecode.com/) to build good old-fashioned video games!
 
 ## Retro Games PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/retro-games/RetroGamesVirtual.pptx' width='100%' height='450px' frameborder='0'></iframe>
-
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/Z9FmkPrxtHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/retro-games/RetroGames.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along Activity
 Follow [these instructions](CodeAlong.md) to build a basic platformer game using MakeCode Arcade.
@@ -18,7 +13,7 @@ Follow [these instructions](CodeAlong.md) to build a basic platformer game using
 ## Sharing Games
 Follow [these steps](SharingGames.md) to save and share your game!
 
-## Self-Paced Work
+## Challenges
 After the code-along, feel free to work on the [challenges](Challenges.md).
 
 ## Resources
