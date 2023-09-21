@@ -4,7 +4,7 @@ Learn about MakeCode Arcade and add some code to start building a platformer gam
 ## MakeCode Arcade Introduction
 Play through the [jumpy platformer](https://arcade.makecode.com/71044-22408-12308-23475) for an idea of what is possible with MakeCode Arcade. This editor uses block-based code (or JavaScript) to create retro games. The games can even be ported to physical devices. It may take a long time to build something like the jumpy platformer, but getting started with a simple platformer is not as difficult!
 
-Go to https://arcade.makecode.com/#editor to start working on a new MakeCode Arcade project. The editor looks like this:
+Go to [arcade.makecode.com/#editor](https://arcade.makecode.com/#editor) to start working on a new MakeCode Arcade project. The editor looks like this:
 
 ![](https://i.imgur.com/qE7JRFy.png)
 
