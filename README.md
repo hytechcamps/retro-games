@@ -2,7 +2,7 @@
 A workshop introducing [MakeCode Arcade](https://arcade.makecode.com/) in ~2hrs. Microsoft MakeCode Arcade is a web-based beginner-friendly code editor to create retro arcade games for the web and for dedicated hardware.
 
 ## Description
-In this workshop, students will explore the history of video games, and then create a retro-style game of their own. They will use Microsoft MakeCode Arcade, a web-based beginner-friendly code editor, to build a platformer game. They will be able to develop the gameplay, art assets, game map, and more. By the end of the workshop, they will have a fully functioning arcade game of their own design.
+In this workshop, students will explore the history of video games, and then create a retro-style game of their own. They will use Microsoft MakeCode Arcade, a web-based beginner-friendly code editor, to build a platformer game. They will be able to develop the gameplay, art assets, game map, and more. By the end of the workshop, they will have gained a basic understanding of game development, and each student will have a fully functioning arcade game of their own design.
 
 ## Videos
 There are videos for the camp here:
