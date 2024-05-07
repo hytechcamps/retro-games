@@ -19,7 +19,6 @@ Welcome to the Designing Retro Games Hy-Tech Camp!
 ## Resources
 Here are some resources in case you need help:
 
-- [Icebreaker Guide](Icebreaker.md)
 - [PowerPoint Presentation](https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/retro-games/RetroGames.pptx)
 - [Code-Along Guide](CodeAlong.md)
 - [Sharing Guide](SharingGames.md)
