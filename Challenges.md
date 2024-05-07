@@ -1,4 +1,4 @@
-# Retro Games: Challenges
+# Challenges
 Complete any of the following challenges that seem interesting. Start with the code from the [code-along activity](CodeAlong.md), and then take a look at the ideas below.
 
 Feel free to get creative and create something else too! It is recommended to start with the Basic Challenges, and then decide whether to move on to the Other Challenges or the Advanced Challenges.
@@ -24,19 +24,28 @@ In the "Music" category, there is a `play melody` block. Drag it into the `on st
 ## Other Challenges
 These challenges are separate from the platformer game, but they are related to retro game development.
 
-### Other 1: Piskel
+### Option 1: Hack Another Platformer
+[Click here for another Platformer game](https://glitch.com/edit/#!/remix/platformer-hacker). This game is written in JavaScript, and it lives somewhere different, but it is still a platformer!
+
+1. Open up the preview for the game
+1. Play the game
+1. Try to get a high score
+
+To hack the game, open up the **variables.js** file, and try to change the numbers to get a higher score!
+
+### Other 2: Piskel
 [Piskel](https://www.piskelapp.com/) is a website that lets artists create pixel art! It is free to use, and it can be a lot of fun to design sprites and animations.
 
 Visit the website and look at some of the examples, or click "Create Sprite" to start creating a sprite.
 
 [This video](https://www.youtube.com/watch?v=VMkvVmAQBd0) and the other videos in the series can be helpful to get started making pixel art with Piskel.
 
-### Other 2: More MakeCode Arcade Tutorials
+### Other 3: More MakeCode Arcade Tutorials
 MakeCode Arcade has a bunch of great [tutorials](https://arcade.makecode.com/tutorials) for all types of retro games!
 
 Visit the website to explore some of the possibilities.
 
-### Other 3: Whatever!
+### Other 4: Whatever!
 Add some completely different stuff to the platformer game, or create an entirely new game! Almost anything is possible; it's all about learning how to do it.
 
 ## Advanced Challenges

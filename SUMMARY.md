@@ -1,4 +1,4 @@
-- [Ohio Tech Day: Retro Games](BOOKREADME.md)
+- [Designing Retro Games](BOOKREADME.md)
 - [Code-Along](CodeAlong.md)
-- [Sharing Games](SharingGames.md)
 - [Challenges](Challenges.md)
+- [Sharing Games](SharingGames.md)
