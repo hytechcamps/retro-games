@@ -1,28 +1,40 @@
-# Ohio Tech Day: Retro Games
-In this lesson, learn how to use [Microsoft MakeCode Arcade](https://arcade.makecode.com/) to build good old-fashioned video games!
+# Designing Retro Games
+Welcome to the Designing Retro Games Hy-Tech Camp!
 
-## Retro Games PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/retro-games/RetroGames.pptx' width='100%' height='450px' frameborder='0'></iframe>
+## Icebreaker: Sketch Toy
+[Click here to draw a video game character!](https://sketchtoy.com/) It can be an existing character, or a totally new one.
 
-## Code-Along Activity
-Follow [these instructions](CodeAlong.md) to build a basic platformer game using MakeCode Arcade.
+### Submission
+[Click here to submit your drawing!](https://forms.office.com/r/Xdm5R9VNua)
 
-### Code-Along Video
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/bzpnbTn7lOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Sharing Games
-Follow [these steps](SharingGames.md) to save and share your game!
+## Code-Along
+[Click here to start building your game!](https://arcade.makecode.com/#editor)
 
 ## Challenges
-After the code-along, feel free to work on the [challenges](Challenges.md).
+[Click here for some challenges!](Challenges.md)
+
+## Game Sharing
+[Click here to share your game!](https://forms.office.com/r/hiBTpntTEv)
 
 ## Resources
+Here are some resources in case you need help:
+
+- [Icebreaker Guide](Icebreaker.md)
+- [PowerPoint Presentation](https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/retro-games/RetroGames.pptx)
+- [Code-Along Guide](CodeAlong.md)
+- [Sharing Guide](SharingGames.md)
+
+### For Fun
+Here are some additional resources, just for fun:
+
 - [Nintendo Before Mario](http://blog.beforemario.com/p/nintendo-before-mario.html)
 - [Piskel](https://www.piskelapp.com/)
 - [MakeCode Arcade Tutorials](https://arcade.makecode.com/tutorials)
 - [MakeCode Arcade Platformer Video Walkthrough](https://www.youtube.com/watch?v=9bSX9Q5aP6E)
 
-## MakeCode Arcade Platformers
+### More MakeCode Platformers
+Check out these examples of platformers built using MakeCode Arcade:
+
 - [Simple Platformer](https://makecode.com/_b6V3sP1w5DgL)
 - [Simple Platformer with Animation](https://makecode.com/_3wXbAr715Myi)
 - [Advanced Platformer](https://arcade.makecode.com/71044-22408-12308-23475)

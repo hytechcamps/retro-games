@@ -1,4 +1,4 @@
-# Retro Games: Simple Platformer Code-Along
+# Code-Along
 Learn about MakeCode Arcade and add some code to start building a platformer game!
 
 ## MakeCode Arcade Introduction
@@ -6,7 +6,7 @@ Play through the [jumpy platformer](https://arcade.makecode.com/71044-22408-1230
 
 Go to [arcade.makecode.com/#editor](https://arcade.makecode.com/#editor) to start working on a new MakeCode Arcade project. The editor looks like this:
 
-![](https://i.imgur.com/qE7JRFy.png)
+![](Assets/MakeCodeEditor.png)
 
 ### Page Sections
 - **Game Preview:** This pane on the left is where the developer can test out the game.
@@ -17,24 +17,24 @@ Go to [arcade.makecode.com/#editor](https://arcade.makecode.com/#editor) to star
 For the first block of the game, set the background color.
 
 1. In the **Block Selection** section, click on "Scene" and find the `set background color to` block  
-    ![](https://i.imgur.com/DIxGkJy.png)
+    ![](Assets/SetBgColorTo.png)
 1. Click on the `set background color to` block, and drag it into the `on start` block  
-    ![](https://i.imgur.com/7mUHPf3.png)
+    ![](Assets/BlockSnap.png)
 1. Click on the blank spot in the background color block, and select a color for the background  
-    ![](https://i.imgur.com/EBSSte0.png)
+    ![](Assets/SelectBgColor.png)
 1. The game preview should automatically update, and the background should be the proper color!
 
 ## Creating the Main Character
 The first thing the game needs is a main character for the player to control!
 
 1. In the **Block Selection** section, in the "Sprites" category, click and drag the red `set mySprite to` block under the background color block  
-    ![](https://i.imgur.com/TK6AUAx.png)
+    ![](Assets/SetMySprite.png)
 1. In the `set mySprite to` block, click the drop-down arrow on `mySprite`, and click "Rename variable..."  
-    ![](https://i.imgur.com/DvJnknn.png)
+    ![](Assets/RenameVar.png)
 1. Set the variable name to "Main Character"
     - _Note: If the main character has a name, this could be their name instead! Just make sure to use the name when referencing the `Main Character` sprite_
 1. Click on the blank space next to "sprite" in the `set sprite` block to open the Sprite Editor  
-    ![](https://i.imgur.com/kudM2w5.png)
+    ![](Assets/SpriteDrawSpace.png)
 1. Draw a sprite image for the main character, and then click the green "Done" button in the bottom right
 1. The game preview should automatically update, and the main character sprite should appear!
 
@@ -45,7 +45,7 @@ In computer science, **variables** are containers for data. In MakeCode Arcade, 
 The main character should be able to move left and right, as in any other platformer.
 
 1. From the "Controller" category, click and drag a red `move mySprite with buttons +` block under the `set sprite` block  
-    ![](https://i.imgur.com/97MwAaU.png)
+    ![](Assets/MoveMySprite.png)
 1. In the `move` block, click the drop-down arrow on `mySprite`, and select `Main Character`
 1. In the game preview, notice that it is possible to move left and right, but also up and down
 1. To prevent the main character from moving up and down, click the `+` in the `move` block, and set the `vy` to `0`
@@ -59,27 +59,27 @@ The MakeCode Arcade screen is a lot like a Cartesian plane. The **x** axis moves
 Now the main character can move, but they won't have much to do without a map!
 
 1. In the "Scene" category, under the "Tiles" header, click and drag a `set tilemap to` block to right under the `set background color` block  
-    ![](https://i.imgur.com/LPZlxa3.png)
+    ![](Assets/SetTilemap.png)
 1. Click the blank spot in the `set tilemap to` block to open the Tilemap Editor
 
-![](https://i.imgur.com/M8kOvQQ.png)
+![](Assets/TilemapEditor.png)
 
 1. In the bottom left, set the **Map Size** to `16`x`8`
     - Zoom out if necessary using the magnifying glass icons in the bottom right
 1. In the **Tile Selector** section, select a tile for the ground
 1. In the **Current Map** section, draw ground covering the bottom part of the map  
-    ![](https://i.imgur.com/NLoxb1h.png)
+    ![](Assets/CurrentMap.png)
 1. Select the **Wall Editor** tool  
-    ![](https://i.imgur.com/k761HmG.png)
+    ![](Assets/WallEditor.png)
 1. Draw over the ground with the wall editor - this will make the ground stop the main character from falling  
-    ![](https://i.imgur.com/0ON40yM.png)
+    ![](Assets/DrawGroundWall.png)
 1. Click the "Done" button, and see the map appear in the game preview!
 
 ## Adding Gravity
 Now that the main character has somewhere to land, add gravity to the game!
 
 1. In the "Sprites" category, click and drag a `set mySprite x to 0` block under the existing blocks in `on start`  
-  ![](https://i.imgur.com/fo4305C.png)
+  ![](Assets/SpriteX.png)
 1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Click the drop-down arrow next to `x` and select `ay (acceleration y)`
 1. Change the `0` to `400`
@@ -94,7 +94,7 @@ In almost every platformer, the main character has the ability to jump.
 
 1. In the "Controller" category, click and drag an `on A button pressed` into the **Code** section
 1. Click the drop-down arrow next to `A` and select `up`  
-    ![](https://i.imgur.com/mPPXEEM.png)
+    ![](Assets/UpPressed.png)
 1. In the "Sprites" category, click and drag a `set mySprite x to 0` block into the `on up button pressed` block
 1. Click the drop-down arrow next to `mySprite` and select `Main Character`
 1. Click the drop-down arrow next to `x` and select `vy (velocity y)`
@@ -112,7 +112,7 @@ The main character should only be able to jump when they are on the ground.
 1. Click and drag the `set Main Character vy to -200` block into the `if` block
 1. Play the game preview and verify that the main character can only jump when they are on the ground!
 
-![](https://i.imgur.com/gfnc4yS.png)
+![](Assets/OnUpIfGround.png)
 
 ### _Side-Note: Conditionals_
 In computer science, **conditionals** let the program do different things depending on the current situation. In this example, the main character can only jump _if_ they are on the ground. Conditionals are incredibly useful for creating dynamic programs!
@@ -121,11 +121,11 @@ In computer science, **conditionals** let the program do different things depend
 For this to be an actual game, there should be a way to win!
 
 1. Find the `set tilemap to` block, and click on the tilemap to open the Tilemap Editor  
-    ![](https://i.imgur.com/wqw8HfF.png)
+    ![](Assets/EditTilemap.png)
 1. In the Tile Selector section on the left, find a good tile for the winning tile
     - The player will win the game if the main character overlaps with this tile
 1. Select the tile, and select the pencil tool  
-    ![](https://i.imgur.com/5MLnNgZ.png)
+    ![](Assets/NewTile.png)
 1. Place the winning object tile somewhere on the tilemap
 1. Click the green "Done" button in the lower right to exit the Tilemap Editor
 1. Back in the code, in the "Scene" category, scroll down to Tiles and find the `on sprite of kind Player overlaps at location` block
@@ -135,16 +135,16 @@ For this to be an actual game, there should be a way to win!
 1. Click the `LOSE` switch to flip it to `WIN`
 1. Play the game in the game preview to verify that reaching the winning object will win the game!
 
-![](https://i.imgur.com/SJvBqML.png)
+![](Assets/GameOverWin.png)
 
 ## Losing the Game
 The game will not be very interesting if there is no way to lose. Add an obstacle that will end the game for the player.
 
 1. Find the `set tilemap to` block, and click on the tilemap to open the Tilemap Editor
 1. In the Tile Selector section on the left, click on "My Tiles"  
-    ![](https://i.imgur.com/CWzSDP3.png)
+    ![](Assets/MyTiles.png)
 1. Click the "+" to create a new tile for an obstacle  
-    ![](https://i.imgur.com/9I6lDav.png)
+    ![](Assets/CreateNewTile.png)
 1. In the Tile Editor, draw an obstacle that will end the game (e.g. spikes, fire, an enemy)
 1. Place the obstacle tile in several places on the tilemap
 1. Click the green "Done" button in the lower right to exit the Tilemap Editor
@@ -155,15 +155,9 @@ The game will not be very interesting if there is no way to lose. Add an obstacl
 1. Click the drop-down arrow next to `confetti` and select a new game-ending animation (like `melt`)
 1. Play the game in the game preview to verify that touching an obstacle will lose the game!
 
-![](https://i.imgur.com/AN7mNnx.png)
+![](Assets/OnLose.png)
 
 ## Code
-At this point, the project should look something like this: https://makecode.com/_b6V3sP1w5DgL
+At this point, the project should be done! It should look something like [this](https://makecode.com/_b6V3sP1w5DgL):
 
 <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/#pub:_aLv4XqPHXPT5" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
-
-## Saving and Sharing
-Follow [these instructions](SharingGames.md) to save and share your game!
-
-## Challenges
-Once the main activity is complete, feel free to work on some [challenges](Challenges.md).
