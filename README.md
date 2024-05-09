@@ -1,10 +1,10 @@
 # Designing Retro Games
 In this workshop, students will explore the history of video games, and then create a retro-style game of their own. They will use Microsoft MakeCode Arcade, a web-based beginner-friendly code editor, to build a platformer game. They will be able to develop the gameplay, art assets, game map, and more. By the end of the workshop, they will have gained a basic understanding of game development, and each student will have a fully functioning arcade game of their own design.
 
-## Student Content
+### Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/retro-games).
 
-## Agenda
+### Agenda
 Here are some general guidelines for the overall flow of the camp:
 
 | Activity | Time |
@@ -18,7 +18,7 @@ Here are some general guidelines for the overall flow of the camp:
 | Game Sharing | 10m |
 | Conclusion | 5m |
 
-## Tips
+### Tips
 Here are some tips to ensure a successful run:
 
 - Before the activity, **read through this lesson plan thoroughly**
