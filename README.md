@@ -42,7 +42,7 @@ The entirety of the camp flows through the [PowerPoint Presentation](RetroGames.
 Have students draw a video game character using [Sketch Toy](https://sketchtoy.com/), and introduce themselves along with their drawings.
 
 #### Drawing
-Introduce [Sketch Toy](https://sketchtoy.com/), and show some basic drawing features (size, color, vibration). Make sure all the students can get to the drawing site through the camp homepage, and give them some time to draw.
+Introduce [Sketch Toy](https://sketchtoy.com/), and show some basic drawing features (size, color, vibration). Make sure all the students can get to the drawing site through the camp homepage, and give them some time to draw. Additionally, show them how to save their drawings, and copy a link for submission.
 
 #### Submission
 After a few minutes, students should submit their drawings using the [form](https://forms.office.com/r/Xdm5R9VNua) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVTN61PpbahMjfrOhDQVZRQBO4TFBABZ7E4OIDceSGvaPQ?e=O314ZX); make sure to filter by the current room.
