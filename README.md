@@ -21,8 +21,8 @@ Here are some general guidelines for the overall flow of the camp:
 ### Tips
 Here are some tips to ensure a successful run:
 
-- Before the activity, **read through this lesson plan thoroughly**
-- During the activity, ask the students questions as often as possible
+- Before the camp, **read through this lesson plan thoroughly**
+- During the camp, ask the students questions as often as possible
     - Ask for their names, hobbies, animals, colors to use... anything!
     - Ask for suggestions about what to do next
     - Poll them to see what they know, or what they'd like to do
