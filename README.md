@@ -75,7 +75,7 @@ An account is required to host the game; here are some credentials you can use:
 - Username: **techoutinst**
 - Password: **Tech0utreach**
 
-When setting up the game, try to time it so that it ends just a couple minutes before the camp ends. Note that it will likely take 2-3 minutes for all the students to join the game, so a game time limit of **7 minutes** might end up taking about **10 minutes**.
+When setting up the game, consider how long it will take for the game to finish. Note that it will likely take 2-3 minutes for all the students to join the game, so a game time limit of **7 minutes** might end up taking about **10 minutes**.
 
 1. Go to the [Blooket Login Page](https://id.blooket.com/login)
 1. Enter the credentials above
