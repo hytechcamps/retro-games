@@ -92,7 +92,7 @@ From there, the students will work on their own, answering questions and trying 
 Give students some time to add more to their games. There are a bunch of challenges they can try by following the [guide](Challenges.md). The goal of this portion is to inspire the students to continue playing with MakeCode Arcade. The guide provides some direction for the students to add features to their game, but it is not necessary for the students to follow the challenge guidelines directly - encourage them to do whatever is most fun for them!
 
 ### Game Sharing
-Encourage the students to share the websites they've built with the room. They can share them through [this form](https://forms.office.com/r/hiBTpntTEv).
+Encourage the students to share the games they've built with the room. They can share them through [this form](https://forms.office.com/r/hiBTpntTEv).
 
 [Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EWLupDX2yRBOhtXuAgPGgHYBxIWd51Ba33J40bJm1-1hIA?e=sMcfBj)
 
