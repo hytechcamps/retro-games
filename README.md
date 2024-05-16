@@ -12,9 +12,9 @@ Here are some general guidelines for the overall flow of the camp:
 | Icebreaker | 30m |
 | Lecture | 15m |
 | Break | 10m |
-| Code-Along | 15m |
-| Blooket | 15m |
-| Challenges | 20m |
+| Code-Along | 30m |
+| Blooket | 10m |
+| Challenges | 10m |
 | Game Sharing | 10m |
 | Conclusion | 5m |
 
