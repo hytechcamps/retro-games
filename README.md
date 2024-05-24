@@ -45,7 +45,7 @@ Have students draw a video game character using [Sketch Toy](https://sketchtoy.c
 Introduce [Sketch Toy](https://sketchtoy.com/), and show some basic drawing features (size, color, vibration). Make sure all the students can get to the drawing site through the camp homepage, and give them some time to draw. Additionally, show them how to save their drawings, and copy a link for submission.
 
 #### Submission
-After a few minutes, students should submit their drawings using the [form](https://forms.office.com/r/Xdm5R9VNua) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVTN61PpbahMjfrOhDQVZRQBO4TFBABZ7E4OIDceSGvaPQ?e=O314ZX); make sure to filter by the current room.
+After a few minutes, students should submit their drawings using the [form](https://forms.office.com/r/Xdm5R9VNua) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVTN61PpbahMjfrOhDQVZRQBGxGtQ8c6sFfr8JLoptueww?e=MVNQtC); make sure to filter by the current room.
 
 #### Show and Tell
 Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and the character they drew.
@@ -94,7 +94,7 @@ Give students some time to add more to their games. There are a bunch of challen
 ### Game Sharing
 Encourage the students to share the games they've built with the room. They can share them through [this form](https://forms.office.com/r/hiBTpntTEv).
 
-[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EWLupDX2yRBOhtXuAgPGgHYBxIWd51Ba33J40bJm1-1hIA?e=sMcfBj)
+[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EWLupDX2yRBOhtXuAgPGgHYBB1iR_EpeReo1h8DHVUvzEA?e=TGrjny)
 
 ## Conclusion
 Make sure to close out the camp on a strong, positive note of encouragement. Here are some key points to hit:
