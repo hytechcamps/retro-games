@@ -18,6 +18,16 @@ Here are some general guidelines for the overall flow of the camp:
 | Game Sharing | 10m |
 | Conclusion | 5m |
 
+#### Short Version
+
+| Activity | Time |
+|-|-|
+| Icebreaker | 15m |
+| Presentation | 15m |
+| Code-Along | 30m |
+| Game Sharing | 15m |
+| Blooket | 15m |
+
 ### Tips
 Here are some tips to ensure a successful run:
 

@@ -1,20 +1,14 @@
 # Designing Retro Games
 Welcome to the Designing Retro Games Hy-Tech Camp!
 
-## Icebreaker: Sketch Toy
-[Click here to draw a video game character!](https://sketchtoy.com/) It can be an existing character, or a totally new one.
-
-### Submission
-[Click here to submit your drawing!](https://forms.office.com/r/Xdm5R9VNua)
+## Icebreaker: MCC Platformer Game
+[Click here to play the game!](https://mccplatformer.onrender.com/)
 
 ## Code-Along
 [Click here to start building your game!](https://arcade.makecode.com/#editor)
 
-## Challenges
-[Click here for some challenges!](Challenges.md)
-
 ## Game Sharing
-[Click here to share your game!](https://forms.office.com/r/hiBTpntTEv)
+[Click here to share your game!](https://forms.office.com/r/YuXc5vhMQr)
 
 ## Resources
 Here are some resources in case you need help:
