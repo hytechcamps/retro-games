@@ -1,5 +1,5 @@
 # Designing Retro Games
-Welcome to the Designing Retro Games Hy-Tech Camp!
+Welcome to the Designing Retro Games Workshop!
 
 ## Icebreaker: MCC Platformer Game
 [Click here to play the game!](https://mccplatformer.onrender.com/)

@@ -7,5 +7,5 @@ When you have a game you would like to share, follow these steps:
     ![](Assets/ShareModal.png)
 1. Click the "Copy" button to copy the link:  
     ![](Assets/CopyLink.png)
-1. [Click here to open up the submission form](https://forms.office.com/r/hiBTpntTEv)
+1. [Click here to open up the submission form](https://forms.office.com/r/YuXc5vhMQr)
 1. Enter your name, paste the link, and submit!
