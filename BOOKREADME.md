@@ -1,8 +1,11 @@
 # Designing Retro Games
 Welcome to the Designing Retro Games Workshop!
 
-## Icebreaker: MCC Platformer Game
-[Click here to play the game!](https://mccplatformer.onrender.com/)
+## Icebreaker: Sketch Toy
+[Click here to draw a video game character!](https://sketchtoy.com/) It can be an existing character, or a totally new one. When you're done, click the "SAVE" button at the top, and copy the link.
+
+### Submission
+[Click here to submit your drawing!](https://forms.office.com/r/wwmY5Jim3q)
 
 ## Code-Along
 [Click here to start building your game!](https://arcade.makecode.com/#editor)
@@ -17,17 +20,19 @@ Here are some resources in case you need help:
 - [Code-Along Guide](CodeAlong.md)
 - [Sharing Guide](SharingGames.md)
 
-### For Fun
-Here are some additional resources, just for fun:
+### More Games
+Here are some additional games you can play:
+
+- [MCC Platformer Game](https://mccplatformer.onrender.com/)
+- [Hackyformer Game](https://hackyformer.onrender.com/)
+- [Simple Platformer](https://makecode.com/_b6V3sP1w5DgL)
+- [Simple Platformer with Animation](https://makecode.com/_3wXbAr715Myi)
+- [Advanced Platformer](https://arcade.makecode.com/71044-22408-12308-23475)
+
+### More Learning / Creating
+Here are some resources that can help you learn more about making games:
 
 - [Nintendo Before Mario](http://blog.beforemario.com/p/nintendo-before-mario.html)
 - [Piskel](https://www.piskelapp.com/)
 - [MakeCode Arcade Tutorials](https://arcade.makecode.com/tutorials)
 - [MakeCode Arcade Platformer Video Walkthrough](https://www.youtube.com/watch?v=9bSX9Q5aP6E)
-
-### More MakeCode Platformers
-Check out these examples of platformers built using MakeCode Arcade:
-
-- [Simple Platformer](https://makecode.com/_b6V3sP1w5DgL)
-- [Simple Platformer with Animation](https://makecode.com/_3wXbAr715Myi)
-- [Advanced Platformer](https://arcade.makecode.com/71044-22408-12308-23475)
