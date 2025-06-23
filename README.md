@@ -28,6 +28,19 @@ Here are some general guidelines for the overall flow of the camp:
 | Game Sharing | 15m |
 | Blooket | 15m |
 
+#### 06/30/25
+
+| Activity | Time |
+|-|-|
+| Icebreaker | 15m |
+| Presentation | 20m |
+| Break | 10m |
+| Code-Along | 45m |
+| Game Sharing | 15m |
+| Blooket | 15m |
+
+_remaining time: play other games_
+
 ### Tips
 Here are some tips to ensure a successful run:
 
@@ -55,7 +68,7 @@ Have students draw a video game character using [Sketch Toy](https://sketchtoy.c
 Introduce [Sketch Toy](https://sketchtoy.com/), and show some basic drawing features (size, color, vibration). Make sure all the students can get to the drawing site through the camp homepage, and give them some time to draw. Additionally, show them how to save their drawings, and copy a link for submission.
 
 #### Submission
-After a few minutes, students should submit their drawings using the [form](https://forms.office.com/r/Xdm5R9VNua) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVTN61PpbahMjfrOhDQVZRQBGxGtQ8c6sFfr8JLoptueww?e=MVNQtC); make sure to filter by the current room.
+After a few minutes, students should submit their drawings using the [form](https://forms.office.com/r/wwmY5Jim3q) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EZJZDYtgTmVCmzPUk3t40HgB3SGM5Fzzqs1fW-4xVh34uQ?e=NxzAIM); make sure to filter by the current room.
 
 #### Show and Tell
 Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and the character they drew.
