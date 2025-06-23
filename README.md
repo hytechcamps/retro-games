@@ -112,10 +112,10 @@ When setting up the game, consider how long it will take for the game to finish.
 From there, the students will work on their own, answering questions and trying to win the game!
 
 ### Challenges
-Give students some time to add more to their games. There are a bunch of challenges they can try by following the [guide](Challenges.md). The goal of this portion is to inspire the students to continue playing with MakeCode Arcade. The guide provides some direction for the students to add features to their game, but it is not necessary for the students to follow the challenge guidelines directly - encourage them to do whatever is most fun for them!
+Give students some time to add more to their games. There are a bunch of challenges they can try by following the [guide](Challenges.md). The goal of this portion is to inspire the students to continue playing with MakeCode Arcade. The guide provides some direction for the students to add features to their game, but it is not necessary for the students to follow the challenge guidelines directly - encourage them to do whatever is most fun for them!!
 
 ### Game Sharing
-Encourage the students to share the games they've built with the room. They can share them through [this form](https://forms.office.com/r/hiBTpntTEv).
+Encourage the students to share the games they've built with the room. They can share them through [this form](https://forms.office.com/r/YuXc5vhMQr).
 
 [Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/r/personal/joseph_maxwell_hyland_com/Documents/Designing%20Retro%20Games_%20Submission.xlsx?d=w56c4c1c1481c4ab8bc5bbd536239871d&csf=1&web=1&e=bkT64y)
 
