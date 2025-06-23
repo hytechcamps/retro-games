@@ -117,7 +117,7 @@ Give students some time to add more to their games. There are a bunch of challen
 ### Game Sharing
 Encourage the students to share the games they've built with the room. They can share them through [this form](https://forms.office.com/r/hiBTpntTEv).
 
-[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EWLupDX2yRBOhtXuAgPGgHYBB1iR_EpeReo1h8DHVUvzEA?e=TGrjny)
+[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/r/personal/joseph_maxwell_hyland_com/Documents/Designing%20Retro%20Games_%20Submission.xlsx?d=w56c4c1c1481c4ab8bc5bbd536239871d&csf=1&web=1&e=bkT64y)
 
 ## Conclusion
 Make sure to close out the camp on a strong, positive note of encouragement. Here are some key points to hit:
